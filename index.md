@@ -6,7 +6,7 @@ layout: home
   <h1>Yoann Saunier</h1>
   <h2>Musicien Ingénieur du Son</h2>
   <p>
-    Musiques actuelles - Musiques à l'image <br>Identités sonores
+    Musiques actuelles - Musiques à l'image<br>Identités sonores
   </p>
 </div>
 
@@ -20,7 +20,7 @@ layout: home
     En 2010, il entre au <a href="http://www.conservatoiredeparis.fr">Conservatoire National Supérieur de Musique et de Danse de Paris</a>, se spécialise dans la Musique Assistée par Ordinateur et décroche le diplôme de la <a href="http://www.fsms.fr">Formation Supérieure au Métiers du Son</a>
   </p>
   <p>
-    Dorénavant, il collabore avec divers compositeurs de musiques à l’image ou pour le théâtre (<a href="http://edemarsan.free.fr/index_f.htm">Eric Demarsan</a>, <a href="https://www.mariejeanneserero.fr">Marie-Jeanne Serero…</a>), se produit régulièrement sur scène au sein de différents groupes de musiques actuelles (<a href="http://www.kabaretmusic.fr">KAB</a>, <a href="https://www.facebook.com/iammalca">Malca</a>,
+    Il collabore avec divers compositeurs de musiques à l’image ou pour le théâtre (<a href="http://edemarsan.free.fr/index_f.htm">Eric Demarsan</a>, <a href="https://www.mariejeanneserero.fr">Marie-Jeanne Serero…</a>), se produit régulièrement sur scène au sein de différents groupes de musiques actuelles (<a href="http://www.kabaretmusic.fr">KAB</a>, <a href="https://www.facebook.com/iammalca">Malca</a>,
     <a href="http://www.meliefraisse.com">Mélie Fraisse…</a>) et réalise parallèlement de nombreux remixes avec son duo <a href="https://soundcloud.com/strassreleases">Strass</a>
   </p>
 </div>

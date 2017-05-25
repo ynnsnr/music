@@ -23,6 +23,12 @@ body {
   background-size: cover;
   background-color: #333;
   padding: 4em 0 0 4em;
+  h1 {
+      font-size: 46px;
+    }
+  h2 {
+      font-size: 32px;
+    }
   @media(max-width: 400px) {
     padding: 1em;
     background-position-x: -40vh;
