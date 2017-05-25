@@ -61,10 +61,10 @@ layout: home
       <div class="picture">
         {% if award.url %}
           <a href="{{ award.url }}">
-            <img src="/assets/projects/{{ award.picture }}" alt="{{ award.name }}">
+            <img src="/assets/awards/{{ award.picture }}" alt="{{ award.name }}">
           </a>
         {% else %}
-          <img src="/assets/projects/{{ award.picture }}" alt="{{ award.name }}">
+          <img src="/assets/awards/{{ award.picture }}" alt="{{ award.name }}">
         {% endif %}
       </div>
       <div class="infos">
