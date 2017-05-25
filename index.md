@@ -20,7 +20,7 @@ layout: home
     En 2010, il entre au <strong>Conservatoire National Supérieur de Musique et de Danse de Paris</strong>, se spécialise dans la Musique Assistée par Ordinateur et décroche le diplôme de <strong>Formation Supérieure au Métiers du Son</strong>
   </p>
   <p>
-    Dorénavant, il collabore avec divers compositeurs de musiques à l’image ou pour le théâtre (Eric Demarsan, Marie-Jeanne Serero…), se produit régulièrement sur scène au sein de différents groupes de musiques actuelles (<a href="http://www.kabaretmusic.fr/">KAB</a>, <a href="https://www.facebook.com/iammalca/">Malca</a>,
+    Dorénavant, il collabore avec divers compositeurs de musiques à l’image ou pour le théâtre (Eric Demarsan, Marie-Jeanne Serero…), se produit régulièrement sur scène au sein de différents groupes de musiques actuelles (<a href="http://www.kabaretmusic.fr">KAB</a>, <a href="https://www.facebook.com/iammalca">Malca</a>,
     Mélie Fraisse…) et réalise parallèlement de nombreux remixes avec son duo a href="https://soundcloud.com/strassreleases">Strass</a>
   </p>
 </div>
