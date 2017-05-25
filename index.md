@@ -21,7 +21,7 @@ layout: home
   </p>
   <p>
     Dorénavant, il collabore avec divers compositeurs de musiques à l’image ou pour le théâtre (Eric Demarsan, Marie-Jeanne Serero…), se produit régulièrement sur scène au sein de différents groupes de musiques actuelles (<a href="http://www.kabaretmusic.fr">KAB</a>, <a href="https://www.facebook.com/iammalca">Malca</a>,
-    Mélie Fraisse…) et réalise parallèlement de nombreux remixes avec son duo a href="https://soundcloud.com/strassreleases">Strass</a>
+    Mélie Fraisse…) et réalise parallèlement de nombreux remixes avec son duo <a href="https://soundcloud.com/strassreleases">Strass</a>
   </p>
 </div>
 
@@ -69,7 +69,7 @@ layout: home
       </div>
       <div class="infos">
         <h3>
-          {{ award.name }}
+          {{ award.name | markdownify }}
         </h3>
         <p>{{ award.description | markdownify }}</p>
       </div>

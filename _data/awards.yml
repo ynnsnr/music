@@ -1,14 +1,24 @@
-- name: Audio Engineering Society
-  description: "**1° place** à la Student Competition @ **Audio Engineering Society** 132nd convention — Silver Award (Catégorie 3 : Modern Studio) "
+- name: AES Student Competition
+  description: "1° place à la [Student Competition](http://www.aes.org/students/awards/recording/past_winners_aes132.cfm) de l'**Audio Engineering Society** 132nd convention — Silver Award (Catégorie 3 : Modern Studio) "
   picture: aes.jpg
-  url: TODO Yoann
+  url: http://www.aes.org/students/awards/recording/past_winners_aes132.cfm
 
 - name: Vovox Make the score!
-  description: "Vovox Make the score! 10th Anniversary competition (Août 2013) : 1° place"
+  description: "Vovox Make the score! 10th Anniversary competition (Août 2013) <br> En collaboration avec Guillaume Le Hénaff<br> [1° place](https://youtu.be/Zlmizuc-NLs)"
   picture: vovox.jpg
-  url: http://www.vovox.com/makethescore
+  url: https://youtu.be/Zlmizuc-NLs
 
-- name: Pimps of Joytime's Booty Text
-  description: "Pimps of Joytime's _Booty Text_ Remix Contest (Mars 2014) : 1° place"
-  picture: vovox.jpg
-  url: http://www.vovox.com/makethescore
+- name: Incredible Polo’s _Feel Ma Peine_ Remix
+  description: "Incredible Polo’s _Feel Ma Peine_ Remix Contest (Septembre 2013) <br> 1° place pour [Strass](https://soundcloud.com/yoannsaunier/incredible-polo-feel-ma-peine)"
+  picture: feelmapeine.jpg
+  url: https://soundcloud.com/yoannsaunier/incredible-polo-feel-ma-peine
+
+- name: Burning House's _PPSD_ Remix
+  description: "Burning House’s _Post Party Stress Disorder_ Remix Contest<br> En collaboration avec Guillaume Le Hénaff<br> 1° place pour [Strass](https://soundcloud.com/burning-house-official/post-party-stress-disorder-2) (ex Faggy Dux) et [KAB](https://soundcloud.com/burning-house-official/post-party-stress-disorder-3) (ex Kabaret)"
+  picture: ppsd.jpg
+  url: https://itunes.apple.com/fr/album/post-party-stress-disorder/id735262301
+
+- name: Pimps of Joytime's _Booty Text_ Remix
+  description: "Pimps of Joytime's _Booty Text_ Remix Contest (Mars 2014) <br> En collaboration avec Guillaume Le Hénaff<br> 1° place pour [Strass](https://soundcloud.com/strassreleases/booty-text-strass-remix)"
+  picture: pimpsbooty.jpg
+  url: https://soundcloud.com/strassreleases/booty-text-strass-remix
