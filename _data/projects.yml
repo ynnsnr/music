@@ -56,7 +56,7 @@
   description: 'Co-fondateur, compositeur et producteur du groupe live [KAB](http://kabaretmusic.fr ) (anciennement **Kabaret**)'
   picture: kabaret.jpg
 
-  - name: 'Mélie Fraisse'
+- name: 'Mélie Fraisse'
   role: Accompagnateur live
   description: 'laviériste et bassiste du groupe [Mélie Fraisse](http://meliefraisse.com)'
   picture: melie_fraisse.jpg
