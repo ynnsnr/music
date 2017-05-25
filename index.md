@@ -58,6 +58,30 @@ layout: home
   {% endfor %}
 </div>
 
+<div id="awards" class="centered">
+  <h2>Distinctions</h2>
+
+  {% for award in site.data.awards %}
+    <div class="project">
+      <div class="picture">
+        {% if award.url %}
+          <a href="{{ award.url }}">
+            <img src="/assets/projects/{{ award.picture }}" alt="{{ award.name }}">
+          </a>
+        {% else %}
+          <img src="/assets/projects/{{ award.picture }}" alt="{{ award.name }}">
+        {% endif %}
+      </div>
+      <div class="infos">
+        <h3>
+          {{ award.name }}
+        </h3>
+        <p>{{ award.description | markdownify }}</p>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
 <div id="contact" class="centered">
   <h2>Contact</h2>
 
