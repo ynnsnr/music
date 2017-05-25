@@ -42,7 +42,12 @@ layout: home
         <img src="/assets/projects/{{ project.picture}}" alt="{{ project.name }}">
       </div>
       <div class="infos">
-        <h3>{{ project.name }} <small>de {{ project.author }}</small></h3>
+        <h3>
+          {{ project.name }}
+          {% if project.author %}
+            <small>de {{ project.author }}</small>
+          {% endif %}
+        </h3>
         <h4>{{ project.role }}</h4>
 
         <p>{{ project.description | markdownify }}</p>

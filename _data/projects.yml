@@ -1,8 +1,26 @@
+- name: O que importa é o caminho
+  author: Joana Schweizer
+  role: Création sonore et sonorisation
+  description: 'Création sonore en collaboration avec [Joana Schweizer](https://anikivovo.wixsite.com/joschweizeranikivovo) pour le spectacle de danse et musique _O que importa é o caminho_ de la compagnie **Aniki Vóvó**'
+  picture: o_que_importa_e_o_caminho.jpg
+
+- name: Jingle Le Wagon
+  author: Yoann Saunier
+  role: Création de Jingle
+  description: "Création d'un jingle musical indroduisant les vidéos pédagogiques et les événements de l'école de code [Le Wagon](https://www.lewagon.com/fr)"
+  picture: le_wagon_logo.jpg
+
 - name: Les Témoins - Saison 2
   author: Hervé Hadmar
   role: Arrangements et programmations musicales
-  description: 'Arrangements et programmations de la musique pour _Les Témoins, saison 2_, série policière française en 8 épisodes créée par Marc Herpoux et Hervé Hadmar.'
+  description: 'Arrangements et programmations de la musique pour _Les Témoins, saison 2_, série policière française en 8 épisodes créée par Marc Herpoux et Hervé Hadmar et diffusée sur **France 2**'
   picture: les_temoins_saison_2.jpg
+
+- name: Chère anorexie
+  author: Judith du Pasquier
+  role: Guitariste
+  description: "Enregistrement des guitares pour la musique du documentaire Arte **Chère anorexie** de Judith du Pasquier et Sylvie Quesemand Zucca, composée par Marie-Jeanne Serero"
+  picture: chere_anorexie.jpg
 
 - name: Au-delà des murs
   author: Hervé Hadmar
@@ -10,3 +28,35 @@
   description: "Programmations musicales pour _Au-delà des murs_, mini-série franco-belge en 3 épisodes créée par Hervé Hadmar et Marc Herpoux, diffusée le 22 septembre 2016 sur **Arte**"
   picture: au_dela_des_murs.jpg
 
+- name: Qui a peur de Virginia Woolf ?
+  author: Edward Albee
+  role: Guitariste
+  description: "Interprétation des guitares enregistrées pour la pièce _Qui a peur de Virginia Woolf ?_ (Molière 2016) d'Edward Albee, mise en scène par Alain Françon et jouée au **Théâtre de l’Œuvre**"
+  picture: qui_a_peur_de_virginia_woolf.jpg
+
+- name: Malca
+  role: Accompagnateur live
+  description: "Guitariste, bassiste et claviériste du groupe [Malca](http://facebook.com/iammalca )"
+  picture: malca.jpg
+
+- name: Les Témoins - Saison 1
+  author: Hervé Hadmar
+  role: Programmations musicales
+  description: 'Programmations musicales pour _Les Témoins_, série policière française en 6 épisodes, créée par Marc Herpoux et Hervé Hadmaret, diffusée en mars 2015 sur **France 2**'
+  picture: les_temoins_saison_1.jpg
+
+- name: 'Guillaume et les garçons, à table !'
+  author: Guillaume Gallienne
+  role: Programmations musicales
+  description: 'Programmations musicales pour _Les Garçons et Guillaume, à table !_, comédie franco-belge écrite et réalisée par Guillaume Gallienne (César 2013)'
+  picture: guillaume_et_les_garcons.jpg
+
+- name: 'KAB'
+  role: Bassiste
+  description: 'Co-fondateur, compositeur et producteur du groupe live [KAB](http://kabaretmusic.fr ) (anciennement **Kabaret**)'
+  picture: kabaret.jpg
+
+  - name: 'Mélie Fraisse'
+  role: Accompagnateur live
+  description: 'laviériste et bassiste du groupe [Mélie Fraisse](http://meliefraisse.com)'
+  picture: melie_fraisse.jpg
