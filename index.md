@@ -13,12 +13,8 @@ layout: home
 <div id="bio" class="centered">
   <h2>Bio</h2>
   <p>
-    Musicien, ingénieur du son et compositeur français né le 28 Janvier 1990 à Mont-Saint-Aignan (Normandie),
-    Yoann Saunier entre au Conservatoire à rayonnement régional de Rouen à l’âge de 7 ans pour y étudier la guitare classique.
-  </p>
-  <p>
-    Durant l’adolescence il découvre la musique rock, monte un groupe et fait ses premiers pas dans l’enregistrement sonore et la
-    production musicale. A sa majorité il part étudier le son à l’image en classe préparatoire Ciné-Sup au Lycée Guist’hau de Nantes où
+    Musicien, ingénieur du son et compositeur d'origine normande, Yoann Saunier entre au <strong>Conservatoire à rayonnement régional de Rouen</strong> à l’âge de 7 ans pour y pratiquer la guitare classique. Adolescent, il fait ses premiers pas dans l’enregistrement sonore et la
+    production musicale. A sa majorité il part étudier le son à l’image en classe préparatoire <strong>Ciné-Sup</strong> au Lycée Guist’hau de Nantes où
     il se tourne vers les musiques électroniques et la composition de musiques de films.
   </p>
   <p>

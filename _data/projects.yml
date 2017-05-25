@@ -15,21 +15,23 @@
 - name: Les Témoins - Saison 2
   author: Hervé Hadmar
   role: Arrangements et programmations musicales
-  description: 'Arrangements et programmations de la musique pour [_Les Témoins, saison 2_](https://www.amazon.fr/dp/B06XJD6MWG), série policière française en 8 épisodes créée par Marc Herpoux et Hervé Hadmar et diffusée sur **France 2**'
+  description: 'Arrangements et programmations de la musique pour [_Les Témoins, saison 2_](https://www.amazon.fr/dp/B06XJD6MWG), série policière française en 8 épisodes créée par Marc Herpoux et Hervé Hadmar et diffusée en mars 2017 sur **France 2**'
   picture: les_temoins_saison_2.jpg
   url: https://www.amazon.fr/dp/B06XJD6MWG
 
 - name: Chère anorexie
   author: Judith du Pasquier
   role: Guitariste
-  description: "Enregistrement des guitares pour la musique du documentaire Arte **Chère anorexie** de Judith du Pasquier et Sylvie Quesemand Zucca, composée par Marie-Jeanne Serero"
+  description: "Enregistrement des guitares pour la musique du documentaire Arte [_Chère anorexie_](http://boutique.arte.tv/f11362-chere_anorexie) de Judith du Pasquier et Sylvie Quesemand Zucca"
   picture: chere_anorexie.jpg
+  url: http://boutique.arte.tv/f11362-chere_anorexie
 
 - name: Au-delà des murs
   author: Hervé Hadmar
   role: Arrangements et programmations musicales
-  description: "Programmations musicales pour _Au-delà des murs_, mini-série franco-belge en 3 épisodes créée par Hervé Hadmar et Marc Herpoux, diffusée le 22 septembre 2016 sur **Arte**"
+  description: "Programmations musicales pour [_Au-delà des murs_](http://sites.arte.tv/audeladesmurs/fr), mini-série franco-belge en 3 épisodes créée par Hervé Hadmar et Marc Herpoux, diffusée en septembre 2016 sur **Arte**"
   picture: au_dela_des_murs.jpg
+  url: http://sites.arte.tv/audeladesmurs/fr
 
 - name: Qui a peur de Virginia Woolf ?
   author: Edward Albee
@@ -46,7 +48,7 @@
 - name: Les Témoins - Saison 1
   author: Hervé Hadmar
   role: Programmations musicales
-  description: 'Programmations musicales pour [_Les Témoins_](https://www.amazon.fr/dp/B06XJ89GT4), série policière française en 6 épisodes, créée par Marc Herpoux et Hervé Hadmaret, diffusée en mars 2015 sur **France 2**'
+  description: 'Programmations musicales en collaboration avec [Eric Demarsan](http://edemarsan.free.fr/index_f.htm) pour [_Les Témoins_](https://www.amazon.fr/dp/B06XJ89GT4), série policière française en 6 épisodes, créée par Marc Herpoux et Hervé Hadmar et diffusée en mars 2015 sur **France 2**'
   picture: les_temoins_saison_1.jpg
   url: https://www.amazon.fr/dp/B06XJ89GT4
 
@@ -59,7 +61,7 @@
 
 - name: 'KAB'
   role: Bassiste
-  description: 'Co-fondateur, compositeur et producteur du groupe live [KAB](http://kabaretmusic.fr ) (anciennement **Kabaret**)'
+  description: 'Co-fondateur, compositeur et producteur du groupe [KAB](http://kabaretmusic.fr ) (anciennement **Kabaret**)'
   picture: kabaret.jpg
   url: http://kabaretmusic.fr 
 
