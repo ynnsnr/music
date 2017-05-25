@@ -40,18 +40,18 @@
   picture: qui_a_peur_de_virginia_woolf.jpg
   url: https://youtu.be/_OGF7ljsD6o
 
-- name: Malca
-  role: Accompagnateur live
-  description: "Guitariste, bassiste et claviériste du groupe [Malca](https://www.facebook.com/iammalca)"
-  picture: malca.jpg
-  url: https://youtu.be/6FLdGcyabQo
-
 - name: Les Témoins - Saison 1
   # author: Hervé Hadmar
   role: Programmations musicales
   description: 'Programmations musicales en collaboration avec [Eric Demarsan](http://edemarsan.free.fr/index_f.htm) pour [_Les Témoins_](https://www.amazon.fr/dp/B06XJ89GT4), série policière française en 6 épisodes, créée par Marc Herpoux et Hervé Hadmar et diffusée en mars 2015 sur **France 2**'
   picture: les_temoins_saison_1.jpg
   url: https://www.amazon.fr/dp/B06XJ89GT4
+
+- name: Malca
+  role: Accompagnateur live
+  description: "Guitariste, bassiste et claviériste du groupe [Malca](https://www.facebook.com/iammalca)"
+  picture: malca.jpg
+  url: https://youtu.be/6FLdGcyabQo
 
 - name: 'Guillaume et les garçons, à table !'
   # author: Guillaume Gallienne
