@@ -39,7 +39,13 @@ layout: home
   {% for project in site.data.projects %}
     <div class="project">
       <div class="picture">
-        <img src="/assets/projects/{{ project.picture}}" alt="{{ project.name }}">
+        {% if project.url %}
+          <a href="{{ project.url }}">
+            <img src="/assets/projects/{{ project.picture }}" alt="{{ project.name }}">
+          </a>
+        {% else %}
+          <img src="/assets/projects/{{ project.picture }}" alt="{{ project.name }}">
+        {% endif %}
       </div>
       <div class="infos">
         <h3>
