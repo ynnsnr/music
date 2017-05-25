@@ -4,6 +4,18 @@
 @import "http://cdn.rawgit.com/necolas/normalize.css/master/normalize.css";
 @import "http://cdn.rawgit.com/milligram/milligram/master/dist/milligram.min.css";
 
+a, a:hover {
+  color: #1f6fd8;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
 #banner {
   height: 100vh;
   color: white;
@@ -62,4 +74,8 @@
       }
     }
   }
+}
+
+#contact {
+  margin-bottom: 10em;
 }
