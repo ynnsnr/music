@@ -3,7 +3,7 @@
   role: Création sonore et sonorisation
   description: 'Création sonore en collaboration avec [Joana Schweizer](https://anikivovo.wixsite.com/joschweizeranikivovo) pour le spectacle de danse et musique _O que importa é o caminho_ de la compagnie **Aniki Vóvó**'
   picture: o_que_importa_e_o_caminho.jpg
-  url: https://anikivovo.wixsite.com/joschweizeranikivovo)
+  url: https://anikivovo.wixsite.com/joschweizeranikivovo
 
 - name: Jingle Le Wagon
   author: Yoann Saunier
@@ -15,9 +15,9 @@
 - name: Les Témoins - Saison 2
   author: Hervé Hadmar
   role: Arrangements et programmations musicales
-  description: 'Arrangements et programmations de la musique pour _Les Témoins, saison 2_, série policière française en 8 épisodes créée par Marc Herpoux et Hervé Hadmar et diffusée sur **France 2**'
+  description: 'Arrangements et programmations de la musique pour [_Les Témoins, saison 2_](https://www.amazon.fr/dp/B06XJD6MWG), série policière française en 8 épisodes créée par Marc Herpoux et Hervé Hadmar et diffusée sur **France 2**'
   picture: les_temoins_saison_2.jpg
-  url: 
+  url: https://www.amazon.fr/dp/B06XJD6MWG
 
 - name: Chère anorexie
   author: Judith du Pasquier
@@ -46,14 +46,16 @@
 - name: Les Témoins - Saison 1
   author: Hervé Hadmar
   role: Programmations musicales
-  description: 'Programmations musicales pour _Les Témoins_, série policière française en 6 épisodes, créée par Marc Herpoux et Hervé Hadmaret, diffusée en mars 2015 sur **France 2**'
+  description: 'Programmations musicales pour [_Les Témoins_](https://www.amazon.fr/dp/B06XJ89GT4), série policière française en 6 épisodes, créée par Marc Herpoux et Hervé Hadmaret, diffusée en mars 2015 sur **France 2**'
   picture: les_temoins_saison_1.jpg
+  url: https://www.amazon.fr/dp/B06XJ89GT4
 
 - name: 'Guillaume et les garçons, à table !'
   author: Guillaume Gallienne
   role: Programmations musicales
-  description: 'Programmations musicales pour _Les Garçons et Guillaume, à table !_, comédie franco-belge écrite et réalisée par Guillaume Gallienne (César 2013)'
+  description: 'Programmations musicales en collaboration avec [Marie-Jeanne Serero](https://www.mariejeanneserero.fr) pour _Les Garçons et Guillaume, à table !_, comédie franco-belge écrite et réalisée par Guillaume Gallienne (César 2013)'
   picture: guillaume_et_les_garcons.jpg
+  url: https://www.amazon.fr/Garcons-Guillaume-Table-Ost/dp/B00FSUD7G6
 
 - name: 'KAB'
   role: Bassiste
@@ -63,6 +65,6 @@
 
 - name: 'Mélie Fraisse'
   role: Accompagnateur live
-  description: 'laviériste et bassiste du groupe [Mélie Fraisse](http://meliefraisse.com)'
+  description: 'Claviériste et bassiste du groupe [Mélie Fraisse](http://meliefraisse.com)'
   picture: melie_fraisse.jpg
   url: http://meliefraisse.com
