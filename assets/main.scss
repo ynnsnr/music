@@ -7,23 +7,41 @@
 #banner {
   height: 100vh;
   color: white;
-  background: linear-gradient(to bottom, rgba(255,0,255,0.1) 0%,rgba(0,255,255,0.3) 90%), url(banner.jpg) no-repeat;
+  background: url(banner.jpg) no-repeat;
   background-size: cover;
   background-color: #333;
   padding: 4em 0 0 4em;
-  @media(max-width: 320px) {
+  @media(max-width: 400px) {
     padding: 1em;
+    background-position-x: -40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    h2 {
+      font-size: 26px;
+    }
   }
 }
 
 .centered {
   max-width: 687px;
   margin: 2em auto;
+  @media(max-width: 700px) {
+    margin: 2em 15px;
+  }
 }
 
 .project {
   display: flex;
   margin-bottom: 2em;
+
+  @media(max-width: 400px) {
+    flex-direction: column;
+    h3 small {
+      display: block;
+    }
+  }
 
   h3 {
     font-size: 23px;
@@ -37,5 +55,11 @@
     width: 200px;
     margin-right: 20px;
     flex-shrink: 0;
+    @media(max-width: 400px) {
+      width: 100%;
+      img {
+        width: 100%;
+      }
+    }
   }
 }
