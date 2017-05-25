@@ -61,3 +61,11 @@ layout: home
     </div>
   {% endfor %}
 </div>
+
+<div id="contact" class="centered">
+  <h2>Contact</h2>
+
+  <p>
+    Vous souhaitez travailler avec moi ? Je réponds rapidement par mail 👉 <a href="mailto:yoann@saunier.me">yoann@saunier.me</a>
+  </p>
+</div>
