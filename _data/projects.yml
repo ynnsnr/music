@@ -36,14 +36,15 @@
 - name: Qui a peur de Virginia Woolf ?
   # author: Edward Albee
   role: Guitariste
-  description: "Interprétation des guitares enregistrées pour la pièce _Qui a peur de Virginia Woolf ?_ (Molière 2016) d'Edward Albee, mise en scène par Alain Françon et jouée au **Théâtre de l’Œuvre**"
+  description: "Interprétation des guitares enregistrées pour la pièce [_Qui a peur de Virginia Woolf ?_](https://youtu.be/_OGF7ljsD6o) (Molière 2016) d'Edward Albee, mise en scène par Alain Françon et jouée au **Théâtre de l’Œuvre**"
   picture: qui_a_peur_de_virginia_woolf.jpg
+  url: https://youtu.be/_OGF7ljsD6o
 
 - name: Malca
   role: Accompagnateur live
-  description: "Guitariste, bassiste et claviériste du groupe [Malca](http://facebook.com/iammalca )"
+  description: "Guitariste, bassiste et claviériste du groupe [Malca](https://www.facebook.com/iammalca)"
   picture: malca.jpg
-  url: http://facebook.com/iammalca 
+  url: https://youtu.be/6FLdGcyabQo
 
 - name: Les Témoins - Saison 1
   # author: Hervé Hadmar
