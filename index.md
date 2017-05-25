@@ -6,22 +6,22 @@ layout: home
   <h1>Yoann Saunier</h1>
   <h2>Musicien Ingénieur du Son</h2>
   <p>
-    Musiques actuelles - Musiques à l'image
+    Musiques actuelles - Musiques à l'image <br>Identités sonores
   </p>
 </div>
 
 <div id="bio" class="centered">
   <h2>Bio</h2>
   <p>
-    Musicien, ingénieur du son et compositeur d'origine normande, Yoann Saunier entre au <strong>Conservatoire à rayonnement régional</strong> de Rouen à l’âge de 7 ans pour y pratiquer la guitare classique. Il étudie le son à l’image en classe préparatoire <strong>Ciné-Sup</strong> au Lycée Guist’hau de Nantes où
+    Musicien, ingénieur du son et compositeur d'origine normande, Yoann Saunier entre au <a href="http://www.conservatoirederouen.fr">Conservatoire à rayonnement régional</a> de Rouen à l’âge de 7 ans pour y pratiquer la guitare classique. Il étudie le son à l’image en classe préparatoire <a href="http://guisthau.paysdelaloire.e-lyco.fr/le-superieur/cine-sup-/">Ciné-Sup</a> au Lycée Guist’hau de Nantes où
     il se forme aux musiques électroniques et à la composition de musiques de films
   </p>
   <p>
-    En 2010, il entre au <strong>Conservatoire National Supérieur de Musique et de Danse de Paris</strong>, se spécialise dans la Musique Assistée par Ordinateur et décroche le diplôme de <strong>Formation Supérieure au Métiers du Son</strong>
+    En 2010, il entre au <a href="http://www.conservatoiredeparis.fr">Conservatoire National Supérieur de Musique et de Danse de Paris</a>, se spécialise dans la Musique Assistée par Ordinateur et décroche le diplôme de la <a href="http://www.fsms.fr">Formation Supérieure au Métiers du Son</a>
   </p>
   <p>
-    Dorénavant, il collabore avec divers compositeurs de musiques à l’image ou pour le théâtre (Eric Demarsan, Marie-Jeanne Serero…), se produit régulièrement sur scène au sein de différents groupes de musiques actuelles (<a href="http://www.kabaretmusic.fr">KAB</a>, <a href="https://www.facebook.com/iammalca">Malca</a>,
-    Mélie Fraisse…) et réalise parallèlement de nombreux remixes avec son duo <a href="https://soundcloud.com/strassreleases">Strass</a>
+    Dorénavant, il collabore avec divers compositeurs de musiques à l’image ou pour le théâtre (<a href="http://edemarsan.free.fr/index_f.htm">Eric Demarsan</a>, <a href="https://www.mariejeanneserero.fr">Marie-Jeanne Serero…</a>), se produit régulièrement sur scène au sein de différents groupes de musiques actuelles (<a href="http://www.kabaretmusic.fr">KAB</a>, <a href="https://www.facebook.com/iammalca">Malca</a>,
+    <a href="http://www.meliefraisse.com">Mélie Fraisse…</a>) et réalise parallèlement de nombreux remixes avec son duo <a href="https://soundcloud.com/strassreleases">Strass</a>
   </p>
 </div>
 
