@@ -3,18 +3,21 @@
   role: Création sonore et sonorisation
   description: 'Création sonore en collaboration avec [Joana Schweizer](https://anikivovo.wixsite.com/joschweizeranikivovo) pour le spectacle de danse et musique _O que importa é o caminho_ de la compagnie **Aniki Vóvó**'
   picture: o_que_importa_e_o_caminho.jpg
+  url: https://anikivovo.wixsite.com/joschweizeranikivovo)
 
 - name: Jingle Le Wagon
   author: Yoann Saunier
   role: Création de Jingle
   description: "Création d'un jingle musical indroduisant les vidéos pédagogiques et les événements de l'école de code [Le Wagon](https://www.lewagon.com/fr)"
   picture: le_wagon_logo.jpg
+  url: https://www.lewagon.com/fr
 
 - name: Les Témoins - Saison 2
   author: Hervé Hadmar
   role: Arrangements et programmations musicales
   description: 'Arrangements et programmations de la musique pour _Les Témoins, saison 2_, série policière française en 8 épisodes créée par Marc Herpoux et Hervé Hadmar et diffusée sur **France 2**'
   picture: les_temoins_saison_2.jpg
+  url: 
 
 - name: Chère anorexie
   author: Judith du Pasquier
