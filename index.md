@@ -13,20 +13,15 @@ layout: home
 <div id="bio" class="centered">
   <h2>Bio</h2>
   <p>
-    Musicien, ingénieur du son et compositeur d'origine normande, Yoann Saunier entre au <strong>Conservatoire à rayonnement régional de Rouen</strong> à l’âge de 7 ans pour y pratiquer la guitare classique. Adolescent, il fait ses premiers pas dans l’enregistrement sonore et la
-    production musicale. A sa majorité il part étudier le son à l’image en classe préparatoire <strong>Ciné-Sup</strong> au Lycée Guist’hau de Nantes où
-    il se tourne vers les musiques électroniques et la composition de musiques de films.
+    Musicien, ingénieur du son et compositeur d'origine normande, Yoann Saunier entre au <strong>Conservatoire à rayonnement régional</strong> de Rouen à l’âge de 7 ans pour y pratiquer la guitare classique. Il étudie le son à l’image en classe préparatoire <strong>Ciné-Sup</strong> au Lycée Guist’hau de Nantes où
+    il se forme aux musiques électroniques et à la composition de musiques de films
   </p>
   <p>
-    En 2010, il entre au <strong>Conservatoire National Supérieur
-    de Musique et de Danse de Paris</strong>, se spécialise dans la Musique Assistée par Ordinateur et décroche cinq ans plus tard le diplôme de
-    Formation Supérieure au Métiers du Son.
+    En 2010, il entre au <strong>Conservatoire National Supérieur de Musique et de Danse de Paris</strong>, se spécialise dans la Musique Assistée par Ordinateur et décroche le diplôme de <strong>Formation Supérieure au Métiers du Son</strong>
   </p>
   <p>
-    Aujourd’hui, il collabore avec divers compositeurs de musiques à l’image ou pour le
-    théâtre (Eric Demarsan, Marie-Jeanne Serero…), se produit régulièrement sur scène au sein de différents groupes de musiques
-    actuelles (<a href="http://www.kabaretmusic.fr/">KAB</a>, <a href="https://www.facebook.com/iammalca/">Malca</a>,
-    Mélie Fraisse…) et réalise parallèlement de nombreux remixes avec son duo de DJ, Strass.
+    Dorénavant, il collabore avec divers compositeurs de musiques à l’image ou pour le théâtre (Eric Demarsan, Marie-Jeanne Serero…), se produit régulièrement sur scène au sein de différents groupes de musiques actuelles (<a href="http://www.kabaretmusic.fr/">KAB</a>, <a href="https://www.facebook.com/iammalca/">Malca</a>,
+    Mélie Fraisse…) et réalise parallèlement de nombreux remixes avec son duo a href="https://soundcloud.com/strassreleases">Strass</a>
   </p>
 </div>
 
