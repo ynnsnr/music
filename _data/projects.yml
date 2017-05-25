@@ -41,6 +41,7 @@
   role: Accompagnateur live
   description: "Guitariste, bassiste et claviériste du groupe [Malca](http://facebook.com/iammalca )"
   picture: malca.jpg
+  url: http://facebook.com/iammalca 
 
 - name: Les Témoins - Saison 1
   author: Hervé Hadmar
@@ -58,8 +59,10 @@
   role: Bassiste
   description: 'Co-fondateur, compositeur et producteur du groupe live [KAB](http://kabaretmusic.fr ) (anciennement **Kabaret**)'
   picture: kabaret.jpg
+  url: http://kabaretmusic.fr 
 
 - name: 'Mélie Fraisse'
   role: Accompagnateur live
   description: 'laviériste et bassiste du groupe [Mélie Fraisse](http://meliefraisse.com)'
   picture: melie_fraisse.jpg
+  url: http://meliefraisse.com
