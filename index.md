@@ -8,6 +8,9 @@ layout: home
   <p>
     Musiques actuelles - Musiques à l'image<br>Identités sonores
   </p>
+  <a href="#bio" id="scroll-down">
+    ⇣
+  </a>
 </div>
 
 <div id="bio" class="centered">
