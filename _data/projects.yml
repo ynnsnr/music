@@ -1,3 +1,9 @@
+- name: Le Podcast du Wagon
+  role: Création sonore et Réalisation
+  description: "Création d'un jingle musical d'introduction au podcast du Wagon. Réalisation de chaque épisode."
+  picture: le_wagon_podcast.jpg
+  url: http://lewagon.fireside.fm/
+
 - name: O que importa é o caminho
   # author: Joana Schweizer
   role: Création sonore et sonorisation
