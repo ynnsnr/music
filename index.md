@@ -6,8 +6,13 @@ layout: home
   <h1>Yoann Saunier</h1>
   <h2>Musicien Ingénieur du Son</h2>
   <p>
-    Musiques actuelles - Musiques à l'image<br>Identités sonores
+    Musiques actuelles - Musiques à l'image<br>Identités sonores - Composition
   </p>
+
+  <!-- <div id="soundcloud">
+    <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310547960&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+  </div> -->
+
   <a href="#bio" id="scroll-down">
     ⇣
   </a>
@@ -26,6 +31,32 @@ layout: home
     Il collabore avec divers compositeurs de musiques à l’image ou pour le théâtre (<a href="http://edemarsan.free.fr/index_f.htm">Eric Demarsan</a>, <a href="https://www.mariejeanneserero.fr">Marie-Jeanne Serero…</a>), se produit régulièrement sur scène au sein de différents groupes de musiques actuelles (<a href="http://www.kabaretmusic.fr">KAB</a>, <a href="https://www.facebook.com/iammalca">Malca</a>,
     <a href="http://www.meliefraisse.com">Mélie Fraisse…</a>) et réalise parallèlement de nombreux remixes avec son duo <a href="https://soundcloud.com/strassreleases">Strass</a>
   </p>
+</div>
+
+<div id="musique-a-limage" class="centered">
+  <h2>Musique à l'image / Identité sonore</h2>
+
+  {% include youtube.html id="M5dx1Se7vp0" %}
+  {% include youtube.html id="5FdhfC3SUkQ" %}
+  {% include youtube.html id="lNog1wzJp_U" %}
+  {% include youtube.html id="VUwd0J86_14" %}
+  {% include youtube.html id="0QsmwNNp2_k" %}
+</div>
+
+<div id="composition" class="centered">
+  <h2>Composition / Musique live</h2>
+
+  {% include youtube.html id="ZuM4-JbXG_s" %}
+  {% include youtube.html id="wVlSh10-OJQ" %}
+  {% include youtube.html id="GWb2wM78l_M" %}
+</div>
+
+<div id="remixes" class="centered">
+  <h2>Remixes / DJ Sets</h2>
+
+  {% include soundcloud.html id="310547960" %}
+  {% include soundcloud.html id="270042708" %}
+  {% include soundcloud.html id="102949631" %}
 </div>
 
 <div id="projects" class="centered">
