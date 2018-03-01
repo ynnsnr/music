@@ -42,7 +42,7 @@ layout: home
   {% include youtube.html id="VUwd0J86_14" %}
   {% include youtube.html id="eCORQt1sISw" %}
 </div>
-
+<!--
 <div id="composition" class="centered">
   <h2>Composition / Musique live</h2>
 
@@ -58,7 +58,7 @@ layout: home
   {% include soundcloud.html id="134419576" %}
   {% include soundcloud.html id="102949631" %}
 </div>
-
+-->
 <div id="projects" class="centered">
   <h2>Projets</h2>
   {% for project in site.data.projects %}
