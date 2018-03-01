@@ -50,15 +50,15 @@ layout: home
   {% include youtube.html id="wVlSh10-OJQ" %}
   {% include youtube.html id="GWb2wM78l_M" %}
 </div>
-
+-->
 <div id="remixes" class="centered">
-  <h2>Remixes / DJ Sets</h2>
+  <h2>Musics</h2>
 
   {% include soundcloud.html id="310547960" %}
   {% include soundcloud.html id="134419576" %}
   {% include soundcloud.html id="102949631" %}
 </div>
--->
+
 <div id="projects" class="centered">
   <h2>Projets</h2>
   {% for project in site.data.projects %}
