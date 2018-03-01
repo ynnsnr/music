@@ -52,7 +52,7 @@ layout: home
 </div>
 -->
 <div id="remixes" class="centered">
-  <h2>Musics</h2>
+  <h2>Musique</h2>
 
   {% include soundcloud.html id="310547960" %}
   {% include soundcloud.html id="134419576" %}
