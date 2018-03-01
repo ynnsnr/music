@@ -55,7 +55,7 @@ layout: home
   <h2>Remixes / DJ Sets</h2>
 
   {% include soundcloud.html id="310547960" %}
-  {% include soundcloud.html id="270042708" %}
+  {% include soundcloud.html id="134419576" %}
   {% include soundcloud.html id="102949631" %}
 </div>
 
