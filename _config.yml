@@ -3,7 +3,7 @@ description: >
   Musicien, ingénieur du son et compositeur spécialisé dans les musiques électroniques. Diplômé de la Formation
   Supérieure au Métiers du Son au Conservatoire de Paris, il collabore avec divers compositeurs de musiques à l'image (Eric Demarsan,
   Marie-Jeanne Serero…) et se produit régulièrement sur scène dans différents groupes (KAB, Malca, Strass, Mélie Fraisse…)
-url: "http://yoann.saunier.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yoann.saunier.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
 exclude:
