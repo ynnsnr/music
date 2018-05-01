@@ -111,6 +111,14 @@ layout: home
   {% endfor %}
 </div>
 
+<div id="awards" class="centered">
+  <h2>Musiques libres de droit</h2>
+
+  <p>
+    Pas le temps pour du sur-mesure ? Mon catalogue est disponible sur <a href="https://www.pond5.com/fr/artist/yoannsaunier">Pond5</a>
+  </p>
+</div>
+
 <div id="contact" class="centered">
   <h2>Contact</h2>
 
