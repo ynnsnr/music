@@ -4,7 +4,7 @@ layout: home
 
 <div id="banner">
   <h1>Yoann Saunier</h1>
-  <h2>Musicien Ingénieur du Son</h2>
+  <h2>Musicien Ingénieur du Son Compositeur</h2>
   <p>
     Musiques actuelles - Musiques à l'image<br>Identités sonores - Composition
   </p>
