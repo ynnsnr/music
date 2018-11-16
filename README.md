@@ -1,1 +1,1 @@
-Portfolio of [Yoann Saunier](http://yoann.saunier.me), a French :fr: musician and sound engineer.
+Music portfolio of [Yoann Saunier](http://yoann.saunier.me), a French musician and audio engineer.
