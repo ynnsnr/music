@@ -13,6 +13,10 @@ layout: home
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310547960&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
   </div> -->
 
+  <div class="youtube-banner">
+    <iframe src="https://www.youtube.com/embed/videoseries?list=PLbVCYPYRkpZNDBBREdlC3gFkKNDaFUnJm" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  </div>
+
   <a href="#bio" id="scroll-down">
     ⇣
   </a>

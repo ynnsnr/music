@@ -41,14 +41,14 @@ body {
   background: url(banner.jpg) no-repeat;
   background-size: cover;
   background-color: #333;
-  padding: 4em 0 0 4em;
+  padding: 4em 4em 0 4em;
   @media(max-width: 600px) {
     padding: 1em 1em 2em 1em;
     background-position-x: -40vh;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: center;
     h2 {
       font-size: 26px;
     }
@@ -147,4 +147,35 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.youtube-banner {
+  text-align: center;
+  @media(min-width: 412px) {
+    iframe {
+      width: 400px;
+      height: 225px;
+      margin-top: 3em;
+    }
+  }
+  @media(min-width: 600px) {
+    iframe {
+      width: 480px;
+      height: 270px;
+      margin-top: 2em;
+    }
+  }
+  @media(min-width: 700px) {
+    iframe {
+      width: 560px;
+      height: 315px;
+      margin-top: 1em;
+    }
+  }
+  @media(min-width: 992px) {
+    iframe {
+      width: 640px;
+      height: 360px;
+    }
+  }
 }
